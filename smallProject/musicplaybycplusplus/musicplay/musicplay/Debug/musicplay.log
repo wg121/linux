@@ -1,0 +1,6 @@
+﻿  main.cpp
+  musicplayer.cpp
+  res.cpp
+D:\project\c++\musicplaybycplusplus\musicplay\musicplay\res.cpp(22,20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  musicplay.vcxproj -> D:\project\c++\musicplaybycplusplus\musicplay\Debug\musicplay.exe
