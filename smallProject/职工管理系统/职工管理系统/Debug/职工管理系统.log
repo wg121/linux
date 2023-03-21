@@ -1,0 +1,9 @@
+﻿  boss.cpp
+  employee.cpp
+  main.cpp
+  manager.cpp
+  worker.cpp
+  workerManager.cpp
+D:\project\c++\职工管理系统\职工管理系统\workerManager.cpp(379,11): warning C4566: 由通用字符名称“\u00B2”表示的字符不能在当前代码页(936)中表示出来
+  正在生成代码...
+  职工管理系统.vcxproj -> D:\project\c++\职工管理系统\Debug\职工管理系统.exe
